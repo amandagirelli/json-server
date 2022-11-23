@@ -1,0 +1,82 @@
+{
+  "Livros": [
+  {
+    "nome":"A seleção",
+    "páginas":363,
+    "ano":2012,
+    "id":1
+  },
+  {
+    "nome":"O Acordo",
+    "páginas":360,
+    "ano":2015,
+    "id":2
+  },
+  {
+    "nome":"O Jogo",
+    "páginas":344,
+    "ano":2017,
+    "id":3
+  },
+  {
+    "nome":"Para todos os garotos que já amei",
+    "páginas":320,
+    "ano":2014,
+    "id":4
+  }
+],
+ 
+  "escritores": [
+    {
+      "nome":"Kiera Cass",
+      "idade":41,
+      "país": "Estados Unidos",
+      "id":1
+    },
+    {
+      "nome":"Elle Kennedy",
+      "idade":40,
+      "país": "Estados Unidos",
+      "id":2
+    },
+    {
+      "nome":"Elle Kennedy",
+      "area":40,
+      "país": "Estados Unidos",
+      "id":3
+    },
+    {
+      "nome":"Jenny Han",
+      "idade":42,
+      "país": "Estados Unidos",
+      "id":4
+    }
+  ],
+  
+  "editora":[
+    {
+      "nome":"Seguinte",
+      "genero":"Jovens e Adolescentes",
+      "país": "Brasil",
+      "id":1
+    },
+    {
+      "nome":"Paralela",
+      "genero":"New-Adult",
+      "país": "Brasil",
+      "id":2
+    },
+    {
+      "nome":"Paralela",
+      "genero":"New-Adult",
+      "país": "Brasil",
+      "id":3
+    },
+    {
+      "nome":"Intrinseca",
+      "genero":"Jovens e Adolescentes",
+      "país": "Brasil",
+      "id":4
+    }
+  ]
+}
